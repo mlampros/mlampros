@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey there! <img src="https://raw.githubusercontent.com/mlampros/mlampros/master/wave.gif" width="30px">
+## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/wave.gif" width="30px">
 
 My name is Lampros and I'm a self-taught programmer, Data Analyst. I
 
