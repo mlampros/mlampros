@@ -40,7 +40,7 @@ The following *stats* show my contribution to the open source community,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lampros's GitHub Stats" />
 </a>
 
-<br>
+<br><br>
 
 * 📫 You can reach me best via e-mail to mouselimislampros@gmail.com
 
