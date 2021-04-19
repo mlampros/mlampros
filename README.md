@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 My name is Lampros and I'm a self-taught programmer, Data Analyst. I
 
-* work on a daily basis with the R programming Language
-* utilize Python for my deep learning tasks 
-* use C++ (via Rcpp, RcppArmadillo, Cython and Pybind) to improve the efficiency of R and Python code
+* work on a daily basis with the **R** programming Language
+* utilize **Python** for my deep learning tasks 
+* use **C++** (via *Rcpp*, *RcppArmadillo*, *Cython* and *Pybind*) to improve the efficiency of R and Python code
 
 <br>
 
