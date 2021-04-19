@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 ## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/wave.gif" width="30px">
 
-My name is **Lampros** and I'm a self-taught programmer, Data Analyst. I
+My name is **Lampros** and I'm a [self-taught](https://github.com/mlampros/mlampros.github.io/blob/master/Curriculum_Vitae_Github.pdf) programmer, Data Scientist.
 
-* work on a daily basis with the **R** programming Language
-* utilize **Python** for my deep learning tasks 
-* use **C++** (via *Rcpp*, *RcppArmadillo*, *Cython* and *Pybind*) to improve the efficiency of R and Python code
+* I work on a daily basis with the **R** programming Language
+* I utilize **Python** for my deep learning tasks 
+* I use **C++** (via *Rcpp*, *RcppArmadillo*, *Cython* and *Pybind*) to improve the efficiency of my R and Python code
 
 <br>
 
-The following *stats* show my contributions to the open source community,
+The following *stats* show my contribution to the open source community,
 
 <br>
 
@@ -40,7 +40,11 @@ The following *stats* show my contributions to the open source community,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lampros's GitHub Stats" />
 </a>
 
+<br>
+
 * 📫 You can reach me best via e-mail to mouselimislampros@gmail.com
+
+<br>
 
 If you like my work, you can support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://paypal.me/lamprosmouselimis)](https://paypal.me/lamprosmouselimis)
 
