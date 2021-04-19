@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 
 [![Lampro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlampros)](https://github.com/mlampros/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros)](https://github.com/mlampros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&exclude_repo=github-readme-stats,mlampros.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&hide=javascript,html)](https://github.com/mlampros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&langs_count=8)](https://github.com/mlampros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&layout=compact)](https://github.com/mlampros/github-readme-stats)
