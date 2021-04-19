@@ -45,7 +45,7 @@ The following *stats* show my contribution to the open source community,
 
 📫 You can reach me best via e-mail to mouselimislampros@gmail.com
 
-If you like my work, you can support using one of:
+If you like my work, you can support it using one of:
 
 * [:heart: Github Sponsor](https://github.com/sponsors/mlampros)
 * [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://paypal.me/lamprosmouselimis)](https://paypal.me/lamprosmouselimis)
