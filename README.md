@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/wave.gif" width="30px">
 
-My name is Lampros and I'm a self-taught programmer, Data Analyst. I
+My name is **Lampros** and I'm a self-taught programmer, Data Analyst. I
 
 * work on a daily basis with the **R** programming Language
 * utilize **Python** for my deep learning tasks 
@@ -25,9 +25,13 @@ My name is Lampros and I'm a self-taught programmer, Data Analyst. I
 
 <br>
 
+The following *stats* show my contributions to the open source community,
+
+<br>
+
 <a href="https://github.com/mlampros/mlampros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/mlampros/mlampros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lampros's GitHub Stats" />
 </a>
