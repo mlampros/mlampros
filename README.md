@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Lampros and I'm a self-taught programmer, Data Analyst
 
@@ -25,4 +25,8 @@ My name is Lampros and I'm a self-taught programmer, Data Analyst
 </a>
 <a href="https://github.com/mlampros/mlampros">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/mlampros/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mlampros&layout=compact&bg_color=000&text_color=FFF&hide_border=true">
 </a>
