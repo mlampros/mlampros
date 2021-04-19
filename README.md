@@ -43,7 +43,7 @@ The following *stats* show my contribution to the open source community,
 
 <br>
 
-* 📫 You can reach me best via e-mail to mouselimislampros@gmail.com
+📫 You can reach me best via e-mail to mouselimislampros@gmail.com
 
 <br>
 
