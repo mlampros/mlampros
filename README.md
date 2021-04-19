@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![Lampro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlampros)](https://github.com/mlampros/github-readme-stats)
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&langs_count=10)](https://github.com/mlampros/github-readme-stats)
+My name is Lampros and I'm a self-taught programmer, Data Analyst
 
 <a href="https://github.com/mlampros/mlampros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
