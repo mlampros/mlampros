@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/wave.gif" width="30px">
 
-My name is **Lampros** and I'm a [self-taught](https://github.com/mlampros/mlampros.github.io/blob/master/Curriculum_Vitae_Github.pdf) programmer, Data Scientist.
+My name is **Lampros** and I'm a [self-taught](https://github.com/mlampros/mlampros.github.io/blob/master/Curriculum_Vitae_Github.pdf) Programmer and Data Scientist.
 
 * I work on a daily basis with the **R** programming Language
 * I utilize **Python** for my deep learning tasks 
