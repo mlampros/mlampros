@@ -42,7 +42,7 @@ The following *stats* show my contribution to the open source community,
 
 <br><br>
 
-[<img src="https://github.com/mlampros/mlampros/blob/main/google_scholar_profile.jpg" width="75px">](https://scholar.google.com/citations?user=JXg3b58AAAAJ&hl=en)
+[<img src="https://github.com/mlampros/mlampros/blob/main/google_scholar_profile.jpg" width="110px">](https://scholar.google.com/citations?user=JXg3b58AAAAJ&hl=en)
 
 📫 You can reach me best via e-mail to mouselimislampros@gmail.com
 
