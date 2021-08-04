@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![](https://views.whatilearened.today/views/github/mlampros/mlampros.svg)](http://github.com/mlampros/mlampros)
 
 
-## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/Flat_Earth_Scene_Pinterest_processed_subset.gif" width="30px">
+## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/Flat_Earth_Scene_Pinterest_processed_subset.gif" width="50px" heigth="40px">
 
 My name is **Lampros** and I'm a [self-taught](https://github.com/mlampros/mlampros.github.io/blob/master/Curriculum_Vitae_Github.pdf) Programmer and Data Scientist.
 
