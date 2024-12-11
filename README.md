@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/badge/🌐website-blue?&style=for-the-badge)](http://mlampros.github.io/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lampros_twit)
+[![](https://img.shields.io/badge/🌐Portfolio-green?&style=for-the-badge)](https://monopteryx.netlify.app/portfolio/)
 [![](https://views.whatilearened.today/views/github/mlampros/mlampros.svg)](http://github.com/mlampros/mlampros)
 
 
 ## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/Flat_Earth_Scene_Pinterest_processed_subset.gif" width="150px" heigth="140px">
 
-My name is **Lampros** and I'm a [self-taught](https://github.com/mlampros/mlampros.github.io/blob/master/Curriculum_Vitae_Github.pdf) Programmer and Data Scientist.
+My name is **Lampros** and I'm a Data and Remote Sensing Analyst/Programmer.
 
 * I work on a daily basis with the **R** programming Language
 * I utilize **Python** for my deep learning tasks 
@@ -44,7 +44,7 @@ The following *stats* show my contribution to the open source community,
 
 [<img src="https://github.com/mlampros/mlampros/blob/main/google_scholar_profile.jpg" width="110px">](https://scholar.google.com/citations?user=JXg3b58AAAAJ&hl=en)
 
-📫 You can reach me best via e-mail to mouselimislampros@gmail.com
+📫 You can find more information about me in my [Curriculum Vitae](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/mlampros/My.CVitae/master/docs/cv.pdf).
 
 If you like my work, you can support it using one of:
 
