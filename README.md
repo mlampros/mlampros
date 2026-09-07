@@ -16,16 +16,20 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/🌐website-blue?&style=for-the-badge)](http://mlampros.github.io/)
 [![](https://img.shields.io/badge/🌐Portfolio-green?&style=for-the-badge)](https://monopteryx.netlify.app/portfolio/)
+[![](https://img.shields.io/badge/🌐Professional_Website-darkred?&style=for-the-badge)](https://www.monopteryx.com/)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlampros/)
 [![](https://views.whatilearened.today/views/github/mlampros/mlampros.svg)](http://github.com/mlampros/mlampros)
 
 
 ## Hey there! <img src="https://github.com/mlampros/mlampros/blob/main/Flat_Earth_Scene_Pinterest_processed_subset.gif" width="150px" heigth="140px">
 
-My name is **Lampros** and I'm a Data and Remote Sensing Analyst/Programmer.
+**Data & Remote Sensing Analyst · R and Python Developer · Open-source Maintainer**
 
-* I work on a daily basis with the **R** programming Language
-* I utilize **Python** for my deep learning tasks 
-* I use **C++** (via *Rcpp*, *RcppArmadillo*, *Cython* and *Pybind*) to improve the efficiency of my R and Python code
+I develop tools and workflows for geospatial data, satellite imagery, machine learning, image processing and scientific computing.
+
+* **R:** package development, spatial analysis, visualization and machine learning
+* **Python:** deep learning, automation and geospatial workflows
+* **C++:** performance-critical extensions mainly in R and Python
 
 <br>
 
@@ -34,10 +38,10 @@ The following *stats* show my contribution to the open source community,
 <br>
 
 <a href="https://github.com/mlampros/mlampros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlampros&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mlampros&theme=github_dark" alt="Lampros's repositories per language" />
 </a>
 <a href="https://github.com/mlampros/mlampros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlampros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lampros's GitHub Stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mlampros&theme=github_dark" alt="Lampros's GitHub stats" />
 </a>
 
 <br><br>
@@ -46,9 +50,8 @@ The following *stats* show my contribution to the open source community,
 
 📫 You can find more information about me in my [Curriculum Vitae](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/mlampros/My.CVitae/master/docs/cv.pdf).
 
-If you like my work, you can support it using one of:
+If you like my work, you can support it using:
 
 * [:heart: Github Sponsor](https://github.com/sponsors/mlampros)
-* [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://paypal.me/lamprosmouselimis)](https://paypal.me/lamprosmouselimis)
 
 <br>
